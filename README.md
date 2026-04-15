@@ -27,16 +27,6 @@ This parameter is expected to securely represent user-specific data. However, th
 6. Replace Account A’s `encrypted_request` with Account B’s value
 7. Send the modified request
 
-
-## 📸 Proof of Concept
-
-### 🧾 Request Manipulation
-
-![Request](./IMG_20260415_144048.jpg)
-
-### 📦 Unauthorized Response
-![Response](./IMG_20260415_144103.jpg)
-
 The response returns another user's address data, including:
 - Name
 - Phone number
