@@ -32,11 +32,10 @@ This parameter is expected to securely represent user-specific data. However, th
 
 ### 🧾 Request Manipulation
 
-![Request](./request.png)
+![Request](./IMG_20260415_144048.jpg)
 
 ### 📦 Unauthorized Response
-
-![Response](./response.png)
+![Response](./IMG_20260415_144103.jpg)
 
 The response returns another user's address data, including:
 - Name
